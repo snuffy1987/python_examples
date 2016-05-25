@@ -1,4 +1,6 @@
 #!/usr/bin/python
+## http://www.practicepython.org/
+
 import sys
 
 try:

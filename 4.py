@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# http://www.practicepython.org/
+## http://www.practicepython.org/
 __author__ = 'tomas.balazsik'
 
 try:

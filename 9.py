@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# http://www.practicepython.org/
+## http://www.practicepython.org/
 import random
 
 def generate():

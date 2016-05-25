@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# http://www.practicepython.org/
+## http://www.practicepython.org/
 from datetime import date
 import sys
 

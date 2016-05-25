@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# http://www.practicepython.org/
+## http://www.practicepython.org/
 from sets import Set
 import random
 

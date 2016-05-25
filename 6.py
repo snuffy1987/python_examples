@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# http://www.practicepython.org/
+## http://www.practicepython.org/
 __author__ = 'tomas.balazsik'
 
 string = raw_input("Zadaj retazec a ja zistim ci je palindrome:")
