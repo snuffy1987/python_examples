@@ -5,7 +5,6 @@ import random
 
 a = random.sample(range(0,100),25)
 b = random.sample(range(0,100),30)
-
 c = []
 print a,'\n',b
 for cislo in a:
